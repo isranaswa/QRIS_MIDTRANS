@@ -1,1 +1,0 @@
-# QRIS_MIDTRANS
